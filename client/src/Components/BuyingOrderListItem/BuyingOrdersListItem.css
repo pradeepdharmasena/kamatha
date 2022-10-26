@@ -1,0 +1,17 @@
+.BOLI_card{
+    background-color: aqua;
+    align-items: center;
+    margin: 5px;
+    height:fit-content;
+    width:fit-content;
+    
+}
+
+#thumb_img{
+    width: 200px;
+    height: 200px;
+}
+
+h1, h4{
+    margin: 0;
+}

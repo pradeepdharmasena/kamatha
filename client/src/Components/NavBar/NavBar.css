@@ -1,0 +1,10 @@
+#navContainer{
+    display: flexbox;
+    flex-direction: row;
+    padding: 5px;
+}
+
+.navButton{
+    width: 400px;
+    margin-bottom: 20px;
+}

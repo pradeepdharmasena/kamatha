@@ -1,0 +1,13 @@
+.App {
+  display: flex;
+  flex-direction: column;
+}
+
+div{
+  display: flex;
+  flex-direction: column;
+}
+
+h4,h3{
+  align-self: center;
+}

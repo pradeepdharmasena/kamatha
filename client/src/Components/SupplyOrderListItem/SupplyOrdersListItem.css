@@ -1,0 +1,21 @@
+.SOLI_card{
+    background-color: aqua;
+    align-items: center;
+    margin: 5px;
+    height:320px;
+    width:200px;
+    
+}
+
+#thumb_img{
+    width: 200px;
+    height: 200px;
+}
+
+h1, h4{
+    margin: 0;
+}
+
+p{
+    margin-bottom: 0;
+}

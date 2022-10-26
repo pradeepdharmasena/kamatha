@@ -1,0 +1,20 @@
+.signContainer{
+    width: 700px;
+    align-self: center;
+    align-content: center;
+}
+
+.btn{
+    width: 300px;
+    align-self: center;
+    align-content: center;
+}
+
+.signup{
+    margin-top: 10px;
+    align-self: flex-end;
+}
+
+input{
+    margin: 5px;
+}
